@@ -1,2 +1,2 @@
 #!/bin/bash
-cpi -un *.html ..
+cp -un *.html ..
